@@ -1,5 +1,5 @@
 # Civilization
-Códigos para um jogo de estratégia no esticlo Civilization
+Códigos para um jogo de estratégia no estilo Civilization
 
 Classes para um videogame de estratégia no estilo Civilization. Nele, os usuários poderão criar seus
 próprios personagens e construir uma cidade que evoluirá para conquistar outros jogadores. Cada jogador armazena seu
